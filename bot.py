@@ -1,6 +1,7 @@
 import streamlit as st
 from utils import write_message
 
+
 # tag::setup[]
 # Page Config
 st.set_page_config("Ebert", page_icon=":movie_camera:")
